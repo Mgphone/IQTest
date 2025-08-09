@@ -1,0 +1,142 @@
+[
+  {
+    "id": 100,
+    "question": "What comes next? 2, 4, 6, 8, ?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 1,
+    "type": "math"
+  },
+  {
+    "id": 101,
+    "question": "Find the odd one out: Cat, Dog, Apple, Mouse",
+    "options": ["Cat", "Dog", "Apple", "Mouse"],
+    "answer": 2,
+    "type": "logic"
+  },
+  {
+    "id": 102,
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
+    "options": ["Yes", "No", "Cannot be determined", "Only sometimes"],
+    "answer": 0,
+    "type": "logic"
+  },
+  {
+    "id": 103,
+    "question": "What is 15 × 3?",
+    "options": ["30", "35", "45", "40"],
+    "answer": 2,
+    "type": "math"
+  },
+  {
+    "id": 104,
+    "question": "Which number is missing? 5, 10, 20, 40, ?",
+    "options": ["50", "60", "70", "80"],
+    "answer": 3,
+    "type": "math"
+  },
+  {
+    "id": 105,
+    "question": "Which shape has 4 equal sides?",
+    "options": ["Triangle", "Square", "Circle", "Rectangle"],
+    "answer": 1,
+    "type": "pattern"
+  },
+  {
+    "id": 106,
+    "question": "If you rearrange 'L I S T E N', you get?",
+    "options": ["Silent", "Listen", "Inlets", "Tinsel"],
+    "answer": 0,
+    "type": "logic"
+  },
+  {
+    "id": 107,
+    "question": "What is the square root of 81?",
+    "options": ["7", "8", "9", "10"],
+    "answer": 2,
+    "type": "math"
+  },
+  {
+    "id": 108,
+    "question": "Which is heavier: 1 kg of iron or 1 kg of cotton?",
+    "options": ["Iron", "Cotton", "Both are equal", "Cannot say"],
+    "answer": 2,
+    "type": "logic"
+  },
+  {
+    "id": 109,
+    "question": "Complete the sequence: 1, 4, 9, 16, ?",
+    "options": ["20", "25", "30", "36"],
+    "answer": 1,
+    "type": "math"
+  },
+  {
+    "id": 110,
+    "question": "If 5x = 25, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 2,
+    "type": "math"
+  },
+  {
+    "id": 111,
+    "question": "Which of these is not a primary colour?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": 2,
+    "type": "logic"
+  },
+  {
+    "id": 112,
+    "question": "Which day comes after Monday?",
+    "options": ["Sunday", "Tuesday", "Wednesday", "Friday"],
+    "answer": 1,
+    "type": "logic"
+  },
+  {
+    "id": 113,
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 1,
+    "type": "math"
+  },
+  {
+    "id": 114,
+    "question": "What is 100 divided by 4?",
+    "options": ["20", "25", "30", "40"],
+    "answer": 1,
+    "type": "math"
+  },
+  {
+    "id": 115,
+    "question": "Which one is the largest?",
+    "options": ["99", "100", "101", "102"],
+    "answer": 3,
+    "type": "math"
+  },
+  {
+    "id": 116,
+    "question": "If A = 1, B = 2, what does C + D equal?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 2,
+    "type": "logic"
+  },
+  {
+    "id": 117,
+    "question": "Which is the odd one out: Rose, Lily, Mango, Tulip",
+    "options": ["Rose", "Lily", "Mango", "Tulip"],
+    "answer": 2,
+    "type": "logic"
+  },
+  {
+    "id": 118,
+    "question": "How many hours are there in 3 days?",
+    "options": ["48", "60", "72", "96"],
+    "answer": 2,
+    "type": "math"
+  },
+  {
+    "id": 119,
+    "question": "Which number is missing? 2, 3, 5, 8, 12, ?",
+    "options": ["15", "16", "17", "18"],
+    "answer": 1,
+    "type": "math"
+  }
+]
