@@ -381,14 +381,31 @@ body {
 
   .results-container h1 {
     font-size: 2rem;
+    color: #333 !important;
   }
 
   .score-display {
     padding: 1.5rem;
+    background: linear-gradient(135deg, #56ab2f 0%, #a8e6cf 100%) !important;
+    color: white !important;
+  }
+
+  .score-display p {
+    color: white !important;
+    font-size: 1.1rem;
   }
 
   .detailed-results {
     max-height: 300px;
+  }
+
+  .detailed-results h3 {
+    color: #333 !important;
+  }
+
+  .result-item p {
+    color: #333 !important;
+    font-size: 0.85rem;
   }
 
   .modal {
@@ -419,6 +436,47 @@ body {
 
   .upload-section {
     padding: 1rem;
+  }
+
+  .results-container h1 {
+    color: #333 !important;
+    font-size: 1.8rem;
+  }
+
+  .score-display {
+    background: linear-gradient(135deg, #56ab2f 0%, #a8e6cf 100%) !important;
+    color: white !important;
+    padding: 1.25rem;
+  }
+
+  .score-display p {
+    color: white !important;
+    font-size: 1rem;
+  }
+
+  .detailed-results h3 {
+    color: #333 !important;
+    font-size: 1.1rem;
+  }
+
+  .result-item {
+    background: rgba(255, 255, 255, 0.9) !important;
+    margin-bottom: 0.75rem;
+  }
+
+  .result-item p {
+    color: #333 !important;
+    font-size: 0.8rem;
+  }
+
+  .result-item.correct {
+    background: rgba(86, 171, 47, 0.15) !important;
+    border-left-color: #56ab2f !important;
+  }
+
+  .result-item.incorrect {
+    background: rgba(231, 76, 60, 0.15) !important;
+    border-left-color: #e74c3c !important;
   }
 }
 
