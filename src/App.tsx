@@ -218,8 +218,7 @@ answer: number; // The index of the correct option in the 'options' array
 type: string;
 } 
 i want 10 of those simple json for iq test
-i want user to click this to get but don't want to show 
- above code to copy and find it on the any ai tools`;
+`;
     navigator.clipboard
       .writeText(hiddenText)
       .then(() => {
