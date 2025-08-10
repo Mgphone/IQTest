@@ -527,7 +527,7 @@ i want 10 of those simple json for iq test
         </div>
 
         <div className="question">
-          <QuestionRenderer content={currentQuestion.question} className="question-text" />
+          <h2><QuestionRenderer content={currentQuestion.question} className="question-text" /></h2>
           
           {/* Display media files if available */}
           {currentQuestion.media && currentQuestion.media.length > 0 && (
