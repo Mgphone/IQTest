@@ -1,0 +1,902 @@
+{
+  "0": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "1": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "2": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "3": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "4": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "5": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "6": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "7": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "8": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "9": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "10": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "11": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "12": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "13": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "14": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "15": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "16": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "17": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "18": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "19": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "20": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "21": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "22": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "23": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "24": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "25": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "26": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "27": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "28": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "29": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "30": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "31": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "32": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "33": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "34": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "35": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "36": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "37": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "38": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "39": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "40": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "41": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "42": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "43": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "44": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "45": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "46": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "47": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "48": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "49": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "50": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "51": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "52": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "53": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "54": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "55": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "56": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "57": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "58": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "59": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "60": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "61": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "62": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "63": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "64": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "65": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "66": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "67": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "68": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "69": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "70": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "71": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "72": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "73": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "74": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "75": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "76": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "77": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "78": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "79": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "80": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "81": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "82": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "83": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "84": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "85": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "86": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "87": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "88": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "89": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "90": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "91": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "92": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "93": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "94": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "95": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "96": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "97": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "98": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "99": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "100": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "101": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "102": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "103": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "104": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "105": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "106": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "107": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "108": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "109": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "110": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "111": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "112": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "113": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "114": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "115": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "116": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "117": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "118": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "119": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "120": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "121": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "122": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "123": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "124": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "125": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "126": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "127": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "128": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "129": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "130": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "131": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "132": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "133": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "134": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "135": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "136": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "137": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "138": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "139": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "140": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "141": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "142": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "143": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "144": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "145": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "146": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "147": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "148": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  },
+  "149": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: synonym - Pattern analysis not fully implemented"
+  }
+}

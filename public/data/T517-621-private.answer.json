@@ -1,0 +1,626 @@
+{
+  "0": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "1": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "2": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "3": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "4": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "5": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "6": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "7": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "8": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "9": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "10": {
+    "answer": [
+      6
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "11": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "12": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "13": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "14": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "15": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "16": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "17": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "18": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "19": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "20": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "21": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "22": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "23": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "24": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "25": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "26": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "27": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "28": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "29": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "30": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "31": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "32": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "33": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "34": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "35": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "36": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "37": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "38": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "39": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "40": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "41": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "42": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "43": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "44": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "45": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "46": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "47": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "48": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "49": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "50": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "51": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "52": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "53": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "54": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "55": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "56": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "57": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "58": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "59": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "60": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "61": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "62": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "63": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "64": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "65": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "66": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "67": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "68": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "69": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "70": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "71": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "72": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "73": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "74": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "75": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "76": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "77": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "78": {
+    "answer": [
+      4
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "79": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "80": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram-classification - Pattern analysis not fully implemented"
+  },
+  "81": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "82": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "83": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "84": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "85": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "86": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "87": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "88": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "89": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "90": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "91": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "92": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "93": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "94": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "95": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "96": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "97": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "98": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "99": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "100": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "101": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "102": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  },
+  "103": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: diagram - Pattern analysis not fully implemented"
+  }
+}

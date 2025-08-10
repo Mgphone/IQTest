@@ -1,0 +1,8708 @@
+{
+  "0": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 48"
+  },
+  "1": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 0.5833333333333334"
+  },
+  "2": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "3": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 26"
+  },
+  "4": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 31"
+  },
+  "5": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 59"
+  },
+  "6": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "7": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666663"
+  },
+  "8": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "9": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "10": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2868"
+  },
+  "11": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "12": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "13": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 10"
+  },
+  "14": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 23"
+  },
+  "15": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 21"
+  },
+  "16": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "17": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "18": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "19": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "20": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "21": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "22": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 59"
+  },
+  "23": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 26"
+  },
+  "24": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 31"
+  },
+  "25": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 337"
+  },
+  "26": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "27": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -0.03968253968253965"
+  },
+  "28": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "29": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "30": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -6336"
+  },
+  "31": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "32": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "33": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "34": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "35": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "36": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "37": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2160"
+  },
+  "38": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "39": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "40": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "42": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -179"
+  },
+  "43": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 180"
+  },
+  "44": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "45": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "46": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "47": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "49": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -3.8333333333333335"
+  },
+  "50": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "51": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0.027972027972027913"
+  },
+  "52": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "53": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "54": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "55": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "56": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2232142857142857"
+  },
+  "57": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 72"
+  },
+  "58": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "59": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "60": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "61": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "62": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 81"
+  },
+  "63": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 84"
+  },
+  "64": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "65": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -89"
+  },
+  "66": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0.375"
+  },
+  "67": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 38"
+  },
+  "68": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "69": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -20"
+  },
+  "70": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "71": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 44"
+  },
+  "72": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "73": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "74": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "75": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 12"
+  },
+  "76": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.0380952380952381"
+  },
+  "77": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "78": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "79": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "80": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "81": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "82": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "83": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 10"
+  },
+  "84": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 58"
+  },
+  "85": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "86": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.5"
+  },
+  "87": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.022222222222222254"
+  },
+  "88": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -1081"
+  },
+  "89": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 65520"
+  },
+  "90": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 890"
+  },
+  "92": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.020833333333333332"
+  },
+  "94": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -179"
+  },
+  "95": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 25"
+  },
+  "96": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "97": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 63"
+  },
+  "98": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "99": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "100": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "101": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "102": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.057"
+  },
+  "103": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "105": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "106": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "107": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "108": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "109": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "110": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "111": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 116"
+  },
+  "112": {
+    "answer": [
+      1
+    ],
+    "hint": "Arithmetic sequence with common difference -297"
+  },
+  "113": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "114": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "115": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "116": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "118": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.16666666666666663"
+  },
+  "119": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "120": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "121": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "122": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.917"
+  },
+  "123": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "124": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "125": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "126": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "127": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2160"
+  },
+  "128": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "129": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "130": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "131": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.1372549019607843"
+  },
+  "132": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "133": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 4.1"
+  },
+  "134": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2"
+  },
+  "135": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 37.129999999999995"
+  },
+  "137": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "138": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.06470588235294117"
+  },
+  "139": {
+    "answer": [
+      0
+    ],
+    "hint": "Geometric sequence with ratio -3.000"
+  },
+  "140": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "141": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "142": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "143": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "144": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "145": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "146": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "147": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "148": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "149": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "150": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "151": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "152": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "153": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "154": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "155": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "156": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "157": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "158": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "159": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "160": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "161": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "162": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "163": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "164": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "165": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "167": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "168": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "169": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "170": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "171": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "172": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "174": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "176": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "177": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "178": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "179": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "180": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "181": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "182": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "183": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "184": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "185": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "186": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "187": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "188": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "189": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "190": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "191": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "192": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "194": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "195": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "196": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "197": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "198": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "199": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "200": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "201": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "202": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "204": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "205": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "206": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "207": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "208": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "209": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "210": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "211": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "212": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "213": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "214": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "216": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "217": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "218": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "219": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "220": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "221": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "222": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "223": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "224": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "225": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "226": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "227": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "228": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "229": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "230": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "231": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "232": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "233": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "234": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "235": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "236": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "237": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "238": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "239": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "240": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "241": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "242": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "243": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "244": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "246": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "247": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "248": {
+    "answer": [
+      1
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "249": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "251": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "252": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "253": {
+    "answer": [
+      2
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "254": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "255": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "256": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "257": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "258": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "259": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "260": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "261": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "262": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "263": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "264": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "265": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "266": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "267": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "268": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "269": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "270": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "271": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "272": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "273": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 119"
+  },
+  "274": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "275": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "276": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "277": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "278": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "279": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "280": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "281": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "282": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "283": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 126"
+  },
+  "284": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "285": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "286": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "287": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "288": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "289": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "290": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "291": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "292": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "293": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 133"
+  },
+  "294": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "295": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "296": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "297": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "298": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "299": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "300": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "301": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "302": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "303": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 140"
+  },
+  "304": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "305": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "306": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "307": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "308": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "309": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "310": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "311": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "312": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "313": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "314": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "315": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "316": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "317": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "318": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "319": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "320": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "321": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "322": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "323": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "324": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "325": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "326": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "327": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "328": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "329": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "330": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "331": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "332": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "333": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 161"
+  },
+  "334": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "335": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "336": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "337": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "338": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "339": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "340": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "341": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "342": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "343": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 168"
+  },
+  "344": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "345": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "346": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "347": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "348": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "349": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "350": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "351": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "352": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "353": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "354": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "355": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "356": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "357": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "358": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "359": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "360": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "361": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "362": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "363": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 149"
+  },
+  "364": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "365": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "366": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "367": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "368": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "369": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "370": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "371": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "372": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "373": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "374": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "375": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "376": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "377": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "378": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "379": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "380": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "381": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "382": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "383": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 163"
+  },
+  "384": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "385": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "386": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "387": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "388": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "389": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "390": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "391": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "392": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "393": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 170"
+  },
+  "394": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "395": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "396": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "397": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "398": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "399": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "400": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "401": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "402": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "403": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 177"
+  },
+  "404": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "405": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "406": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "407": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "408": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "409": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "410": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "411": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "412": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "413": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 184"
+  },
+  "414": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "415": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "416": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "417": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "418": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "419": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "420": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "421": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "422": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "423": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 191"
+  },
+  "424": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "425": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "426": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "427": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "428": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "429": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "430": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "431": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "432": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "433": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 198"
+  },
+  "434": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "435": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "436": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "437": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "438": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "439": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "440": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "441": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "442": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "443": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "444": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "445": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "446": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "447": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "448": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "449": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "450": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "451": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "452": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "453": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 212"
+  },
+  "454": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "455": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "456": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "457": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "458": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "459": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "460": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "461": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "462": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "463": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 186"
+  },
+  "464": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "465": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "466": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "467": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "468": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "469": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "470": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "471": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "472": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "473": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 193"
+  },
+  "474": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "475": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "476": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "477": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "478": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "479": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "480": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "481": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "482": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "483": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 200"
+  },
+  "484": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "485": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "486": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "487": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "488": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "489": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "490": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "491": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "492": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "493": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 207"
+  },
+  "494": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "495": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "496": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "497": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "498": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "499": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "500": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "501": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "502": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "503": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 214"
+  },
+  "504": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "505": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "506": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "507": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "508": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "509": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "510": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "511": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "512": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "513": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 221"
+  },
+  "514": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "515": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "516": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "517": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "518": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "519": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "520": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "521": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "522": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "523": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 228"
+  },
+  "524": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "525": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "526": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "527": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "528": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "529": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "530": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "531": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "532": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "533": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 235"
+  },
+  "534": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "535": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "536": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "537": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "538": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "539": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "540": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "541": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "542": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "543": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 242"
+  },
+  "544": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "545": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "546": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "547": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "548": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "549": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "550": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "551": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "552": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "553": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 249"
+  },
+  "554": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "555": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "556": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "557": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "558": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "559": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "560": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "561": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "562": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "563": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "564": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "565": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "566": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "567": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "568": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "569": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "570": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "571": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "572": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "573": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "574": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "575": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "576": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "577": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "578": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "579": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 131"
+  },
+  "580": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "581": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "582": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "583": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "584": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "585": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "586": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "587": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "588": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "589": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 138"
+  },
+  "590": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 96"
+  },
+  "591": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 96"
+  },
+  "592": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 96"
+  },
+  "593": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "594": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "595": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "596": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "597": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "598": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "599": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "600": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "601": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "602": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 103"
+  },
+  "603": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "604": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "605": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "606": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "607": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "608": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "609": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "610": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "611": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "612": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 110"
+  },
+  "613": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "614": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "615": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "616": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 117"
+  },
+  "617": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "618": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "619": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "620": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "621": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "622": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "623": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "624": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "625": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "626": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "627": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "628": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 89"
+  },
+  "629": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "630": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "631": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "632": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "633": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "634": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "635": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "636": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "637": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "638": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "639": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "640": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "641": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "642": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "643": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "644": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "645": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "646": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "647": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "648": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "649": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "650": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "651": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "652": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "653": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "654": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "655": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "656": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "657": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "658": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "659": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "660": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "661": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "662": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "664": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "665": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "666": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "667": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "668": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "669": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "670": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "671": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "672": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "673": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "674": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "675": {
+    "answer": [
+      3
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "676": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "677": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "678": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "679": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "680": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "681": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "682": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "683": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "684": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "685": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "686": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "687": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "688": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "689": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "690": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "691": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: sequcence - Pattern analysis not fully implemented"
+  },
+  "692": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.057"
+  },
+  "693": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "694": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "695": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "696": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "697": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "698": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "699": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "700": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "701": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 116"
+  },
+  "702": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "703": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "704": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "705": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "706": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "707": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.16666666666666663"
+  },
+  "708": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "709": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "710": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "711": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "712": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "713": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "714": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "715": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "716": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2160"
+  },
+  "717": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "718": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "719": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "720": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.1372549019607843"
+  },
+  "721": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "722": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "723": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 4.1"
+  },
+  "724": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2"
+  },
+  "725": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 37.129999999999995"
+  },
+  "727": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "728": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.06470588235294117"
+  },
+  "729": {
+    "answer": [
+      0
+    ],
+    "hint": "Geometric sequence with ratio -3.000"
+  },
+  "730": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "732": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 70"
+  },
+  "733": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 15542"
+  },
+  "734": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "735": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -41"
+  },
+  "736": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.09090909090909094"
+  },
+  "737": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "738": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "739": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "740": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "741": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.01666666666666667"
+  },
+  "742": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "743": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "744": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "745": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0.027972027972027913"
+  },
+  "746": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "747": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -22"
+  },
+  "748": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "749": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "750": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -41"
+  },
+  "751": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "752": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -139"
+  },
+  "753": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "754": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "755": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "756": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 76"
+  },
+  "757": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 47408"
+  },
+  "758": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "759": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "760": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "761": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.037037037037037035"
+  },
+  "762": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "763": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "764": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666663"
+  },
+  "765": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "766": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 25"
+  },
+  "767": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 42"
+  },
+  "768": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "769": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -0.03968253968253965"
+  },
+  "770": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -7"
+  },
+  "771": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "772": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "773": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "774": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "775": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 60"
+  },
+  "776": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "777": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "778": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "779": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "780": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -90"
+  },
+  "781": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -34"
+  },
+  "782": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "783": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "784": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "785": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "786": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0.375"
+  },
+  "787": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "788": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 74"
+  },
+  "789": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "790": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -24"
+  },
+  "791": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "792": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1190"
+  },
+  "793": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "794": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 7.8"
+  },
+  "795": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -40.99999999999999"
+  },
+  "796": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "797": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 31"
+  },
+  "798": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "799": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 5.970695970695971"
+  },
+  "800": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "801": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "802": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 68"
+  },
+  "803": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "804": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "805": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "806": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 59"
+  },
+  "807": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.04761904761904756"
+  },
+  "808": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2578125"
+  },
+  "809": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "810": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "811": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "812": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "813": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 42"
+  },
+  "814": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "815": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "816": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 51"
+  },
+  "817": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -58"
+  },
+  "818": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "819": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 23"
+  },
+  "820": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "821": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.020833333333333332"
+  },
+  "822": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "823": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "824": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -72"
+  },
+  "825": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 56"
+  },
+  "826": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2333333333333333"
+  },
+  "827": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -7"
+  },
+  "828": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "829": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 12"
+  },
+  "830": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.09090909090909094"
+  },
+  "831": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "832": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2160"
+  },
+  "833": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "834": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 87"
+  },
+  "835": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -15"
+  },
+  "836": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "837": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "838": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.0625"
+  },
+  "839": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 10303990202"
+  },
+  "840": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "841": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.07539682539682539"
+  },
+  "842": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.25"
+  },
+  "843": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 10"
+  },
+  "844": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 38"
+  },
+  "845": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -25.666666666666668"
+  },
+  "846": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "847": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 127"
+  },
+  "848": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "849": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -28"
+  },
+  "850": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 70"
+  },
+  "851": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -3.8333333333333335"
+  },
+  "852": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "853": {
+    "answer": [
+      1
+    ],
+    "hint": "Geometric sequence with ratio 2.000"
+  },
+  "854": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "855": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "856": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "857": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "858": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "859": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "860": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "861": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "862": {
+    "answer": [
+      4
+    ],
+    "hint": "Heuristic guess based on last difference: 873"
+  },
+  "863": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "864": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "865": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "866": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "867": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.01666666666666667"
+  },
+  "868": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "869": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 91"
+  },
+  "870": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 162"
+  },
+  "871": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 37.129999999999995"
+  },
+  "872": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "873": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 63"
+  },
+  "874": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "875": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 656"
+  },
+  "876": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "877": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 80"
+  },
+  "878": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -4.857142857142857"
+  },
+  "879": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.15999999999999992"
+  },
+  "880": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "881": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "882": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 60"
+  },
+  "883": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "884": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -139"
+  },
+  "885": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -4"
+  },
+  "886": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 2862"
+  },
+  "887": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 46"
+  },
+  "888": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "889": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "890": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "891": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 12"
+  },
+  "892": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "893": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "894": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.6709677419354839"
+  },
+  "895": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -19"
+  },
+  "896": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 175"
+  },
+  "897": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -0.03968253968253965"
+  },
+  "898": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "899": {
+    "answer": [
+      1
+    ],
+    "hint": "Geometric sequence with ratio 11.000"
+  },
+  "900": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "901": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.22966507177033496"
+  },
+  "902": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "903": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "904": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 21338"
+  },
+  "905": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 108"
+  },
+  "906": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "907": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 104"
+  },
+  "908": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "909": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "910": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -1.0069930069930069"
+  },
+  "911": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 72"
+  },
+  "912": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 21"
+  },
+  "913": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0.027972027972027913"
+  },
+  "914": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -3.5"
+  },
+  "915": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -233"
+  },
+  "916": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "917": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "918": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "919": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 10"
+  },
+  "920": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -82.13"
+  },
+  "921": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "922": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "923": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 8101"
+  },
+  "924": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "925": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "926": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -135"
+  },
+  "927": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "928": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "929": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "930": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "931": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "932": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "933": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2232142857142857"
+  },
+  "934": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "935": {
+    "answer": [
+      2
+    ],
+    "hint": "Geometric sequence with ratio 1.500"
+  },
+  "936": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "937": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -2.5"
+  },
+  "938": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 8.09"
+  },
+  "939": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "940": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "941": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 39"
+  },
+  "942": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "943": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "944": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 44"
+  },
+  "945": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "946": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "947": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "948": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "949": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "950": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 316"
+  },
+  "951": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 80"
+  },
+  "952": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 42"
+  },
+  "953": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -23"
+  },
+  "954": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -17"
+  },
+  "955": {
+    "answer": [
+      1
+    ],
+    "hint": "Geometric sequence with ratio 3.000"
+  },
+  "956": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 0.5726495726495727"
+  },
+  "957": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 0.027972027972027913"
+  },
+  "958": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "959": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2232142857142857"
+  },
+  "960": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "961": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "962": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 45"
+  },
+  "963": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "964": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "965": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 144"
+  },
+  "966": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "967": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -23"
+  },
+  "968": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -72"
+  },
+  "969": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 6.03"
+  },
+  "970": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "971": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "972": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "973": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 42"
+  },
+  "974": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -15"
+  },
+  "975": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "976": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 12"
+  },
+  "977": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "978": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "979": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.6709677419354839"
+  },
+  "980": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 91"
+  },
+  "981": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "982": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "983": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -2"
+  },
+  "984": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "985": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "986": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 0.08333333333333337"
+  },
+  "987": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 80"
+  },
+  "988": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "989": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "990": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "991": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -15"
+  },
+  "992": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "993": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "994": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 42"
+  },
+  "995": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 58"
+  },
+  "996": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "997": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "998": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 10"
+  },
+  "999": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "1000": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "1001": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1002": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "1003": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.6764705882352939"
+  },
+  "1004": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "1005": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "1006": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1007": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -2"
+  },
+  "1008": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1009": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 424"
+  },
+  "1010": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "1011": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -8.25"
+  },
+  "1012": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "1013": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: logic - Pattern analysis not fully implemented"
+  },
+  "1014": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1015": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 424"
+  },
+  "1016": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1017": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -31"
+  },
+  "1018": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "1019": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "1020": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1021": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -4.857142857142857"
+  },
+  "1022": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 162"
+  },
+  "1023": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1024": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 19"
+  },
+  "1025": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1026": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "1027": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "1028": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -24"
+  },
+  "1029": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 19"
+  },
+  "1030": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1031": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1032": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 144"
+  },
+  "1033": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 104"
+  },
+  "1034": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 27"
+  },
+  "1035": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1036": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 30"
+  },
+  "1037": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1038": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1039": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1040": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1041": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "1042": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1043": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -58"
+  },
+  "1044": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -58"
+  },
+  "1045": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 48"
+  },
+  "1046": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -24"
+  },
+  "1047": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 17"
+  },
+  "1048": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -80"
+  },
+  "1049": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "1050": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1051": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1052": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1053": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "1054": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 72"
+  },
+  "1055": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 21"
+  },
+  "1056": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "1057": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -3.8333333333333335"
+  },
+  "1058": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -7"
+  },
+  "1059": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "1060": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -58"
+  },
+  "1061": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 51"
+  },
+  "1062": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -2"
+  },
+  "1063": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1064": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.917"
+  },
+  "1065": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "1066": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1067": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1068": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4.5"
+  },
+  "1069": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 7.8"
+  },
+  "1070": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1072": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "1073": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -16"
+  },
+  "1074": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "1075": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "1076": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -20"
+  },
+  "1077": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 42"
+  },
+  "1078": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1079": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1080": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -1.8333333333333333"
+  },
+  "1081": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1082": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1083": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1084": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.037037037037037035"
+  },
+  "1085": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1086": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "1087": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1088": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.09090909090909094"
+  },
+  "1089": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "1090": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 3098"
+  },
+  "1091": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "1092": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 104"
+  },
+  "1093": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1094": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1095": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 26"
+  },
+  "1096": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1097": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1098": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1099": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1100": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1101": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 21338"
+  },
+  "1102": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 1776"
+  },
+  "1103": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "1104": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "1105": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1106": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1107": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "1108": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2.25"
+  },
+  "1109": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1110": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7442782"
+  },
+  "1111": {
+    "answer": [
+      0
+    ],
+    "hint": "Category: U - Pattern analysis not fully implemented"
+  },
+  "1112": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 27"
+  },
+  "1113": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "1114": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "1115": {
+    "answer": [
+      0
+    ],
+    "hint": "Insufficient data for pattern analysis"
+  },
+  "1116": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4610539"
+  },
+  "1117": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "1118": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1120": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 28272"
+  },
+  "1121": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -17"
+  },
+  "1122": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 38"
+  },
+  "1123": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "1124": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1125": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "1126": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 4.120163265306122"
+  },
+  "1127": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "1128": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -72"
+  },
+  "1129": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "1130": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -90"
+  },
+  "1131": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1132": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666663"
+  },
+  "1133": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1134": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "1135": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.25"
+  },
+  "1136": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 1.5"
+  },
+  "1137": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "1138": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -18"
+  },
+  "1139": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "1140": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1141": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1142": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 162"
+  },
+  "1143": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.049999999999999996"
+  },
+  "1144": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 656"
+  },
+  "1146": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 70"
+  },
+  "1147": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -2"
+  },
+  "1148": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1149": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -18"
+  },
+  "1150": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 27"
+  },
+  "1151": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 27"
+  },
+  "1152": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1153": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 72"
+  },
+  "1154": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 147"
+  },
+  "1155": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "1156": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1157": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 33"
+  },
+  "1158": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1159": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 160"
+  },
+  "1160": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1161": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "1162": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 15"
+  },
+  "1163": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -13"
+  },
+  "1164": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1165": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -16"
+  },
+  "1166": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 33"
+  },
+  "1167": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 160"
+  },
+  "1168": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1169": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 30"
+  },
+  "1170": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 59"
+  },
+  "1171": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 6.03"
+  },
+  "1172": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1173": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -26"
+  },
+  "1174": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 82"
+  },
+  "1175": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666663"
+  },
+  "1176": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1177": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "1178": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 27"
+  },
+  "1179": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "1180": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 622"
+  },
+  "1181": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4335654"
+  },
+  "1182": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1571"
+  },
+  "1183": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1184": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 127"
+  },
+  "1185": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "1186": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -407"
+  },
+  "1187": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1188": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1189": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "1190": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 14"
+  },
+  "1191": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1192": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 29"
+  },
+  "1193": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -78"
+  },
+  "1194": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -449"
+  },
+  "1195": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1196": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1197": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -17"
+  },
+  "1198": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 315"
+  },
+  "1199": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1200": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 127"
+  },
+  "1201": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 35"
+  },
+  "1202": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "1203": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1204": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -45"
+  },
+  "1205": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -7"
+  },
+  "1206": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 12"
+  },
+  "1207": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "1208": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1209": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "1210": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "1211": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 56"
+  },
+  "1212": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1213": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 39"
+  },
+  "1214": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1215": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 1.1666666666666665"
+  },
+  "1216": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "1217": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -4.857142857142857"
+  },
+  "1218": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1219": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "1220": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 27"
+  },
+  "1221": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1222": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -4"
+  },
+  "1223": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -4"
+  },
+  "1224": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1225": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 0.08333333333333333"
+  },
+  "1226": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1227": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -16"
+  },
+  "1228": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1229": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.6819999999999995"
+  },
+  "1230": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 70"
+  },
+  "1231": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -15"
+  },
+  "1232": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -4"
+  },
+  "1233": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "1234": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2160"
+  },
+  "1235": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 162"
+  },
+  "1236": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 91"
+  },
+  "1237": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1238": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "1239": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.057"
+  },
+  "1240": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -24"
+  },
+  "1241": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "1242": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 33"
+  },
+  "1243": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "1244": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -9998"
+  },
+  "1245": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1246": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 59"
+  },
+  "1247": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "1248": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1249": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "1250": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 337"
+  },
+  "1251": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 72"
+  },
+  "1252": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 160"
+  },
+  "1253": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 60"
+  },
+  "1254": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "1255": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 26"
+  },
+  "1256": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 25"
+  },
+  "1257": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 47408"
+  },
+  "1259": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "1260": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1261": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 154"
+  },
+  "1262": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "1263": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "1264": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1265": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1266": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 205"
+  },
+  "1267": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1268": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "1269": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1270": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 0.5833333333333334"
+  },
+  "1271": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "1272": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 26"
+  },
+  "1273": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 31"
+  },
+  "1274": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 59"
+  },
+  "1275": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1276": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666663"
+  },
+  "1277": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1278": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1279": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2868"
+  },
+  "1280": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "1281": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7.5"
+  },
+  "1282": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 10"
+  },
+  "1283": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 23"
+  },
+  "1284": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 21"
+  },
+  "1285": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 156"
+  },
+  "1286": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1287": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1288": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1289": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "1291": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.057"
+  },
+  "1292": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "1293": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1294": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1295": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.0026666666666666644"
+  },
+  "1296": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "1297": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1298": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "1299": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1300": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 116"
+  },
+  "1301": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "1302": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1303": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "1304": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1305": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "1306": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.16666666666666663"
+  },
+  "1307": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1308": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "1309": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "1310": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1311": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "1312": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "1313": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1314": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1315": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2160"
+  },
+  "1316": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1317": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "1318": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1319": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.1372549019607843"
+  },
+  "1320": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "1321": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -9"
+  },
+  "1322": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 4.1"
+  },
+  "1323": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.2"
+  },
+  "1324": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 37.129999999999995"
+  },
+  "1326": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "1327": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.06470588235294117"
+  },
+  "1328": {
+    "answer": [
+      0
+    ],
+    "hint": "Geometric sequence with ratio -3.000"
+  },
+  "1329": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  },
+  "1330": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -1"
+  },
+  "1331": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 70"
+  },
+  "1332": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 15542"
+  },
+  "1333": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 80"
+  },
+  "1334": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -14"
+  },
+  "1335": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -41"
+  },
+  "1336": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.09090909090909094"
+  },
+  "1337": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1338": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "1339": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1340": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1341": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.049999999999999996"
+  },
+  "1342": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "1343": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -17"
+  },
+  "1344": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 11"
+  },
+  "1345": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "1346": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -104"
+  },
+  "1347": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 91"
+  },
+  "1348": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "1349": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 12"
+  },
+  "1350": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 75"
+  },
+  "1351": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1352": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 48"
+  },
+  "1353": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.875"
+  },
+  "1354": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "1355": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 162"
+  },
+  "1356": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 91"
+  },
+  "1357": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -104"
+  },
+  "1358": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 337"
+  },
+  "1359": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 81"
+  },
+  "1360": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1361": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 124"
+  },
+  "1362": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 18"
+  },
+  "1363": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -19"
+  },
+  "1364": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1365": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.04761904761904756"
+  },
+  "1366": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 26"
+  },
+  "1367": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "1368": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1369": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 30"
+  },
+  "1370": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -7"
+  },
+  "1371": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "1372": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 11.1"
+  },
+  "1373": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1374": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1375": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1376": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "1377": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1378": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1379": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 60"
+  },
+  "1380": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1381": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 55"
+  },
+  "1382": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1383": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -179"
+  },
+  "1384": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1385": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 39"
+  },
+  "1386": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "1387": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 81"
+  },
+  "1388": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -11"
+  },
+  "1389": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 21"
+  },
+  "1390": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 23"
+  },
+  "1391": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -58"
+  },
+  "1392": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 51"
+  },
+  "1393": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "1394": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 88"
+  },
+  "1395": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 48"
+  },
+  "1396": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 64"
+  },
+  "1397": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 162"
+  },
+  "1398": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 91"
+  },
+  "1399": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 23"
+  },
+  "1400": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1401": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -3.8333333333333335"
+  },
+  "1402": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -15"
+  },
+  "1403": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1404": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1405": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 112"
+  },
+  "1406": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 81"
+  },
+  "1407": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1408": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1409": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1410": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1411": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 48"
+  },
+  "1412": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 60"
+  },
+  "1413": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -1.8333333333333333"
+  },
+  "1414": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 2.1"
+  },
+  "1415": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.0625"
+  },
+  "1416": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 337"
+  },
+  "1417": {
+    "answer": [
+      0
+    ],
+    "hint": "Arithmetic sequence with common difference 0"
+  },
+  "1418": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 52"
+  },
+  "1419": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1420": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 144"
+  },
+  "1421": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 3"
+  },
+  "1422": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1423": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 41"
+  },
+  "1424": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1425": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 37"
+  },
+  "1426": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: -0.19444444444444442"
+  },
+  "1427": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -41"
+  },
+  "1428": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -0.022222222222222254"
+  },
+  "1429": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1430": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1431": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1452"
+  },
+  "1432": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 152"
+  },
+  "1433": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 108"
+  },
+  "1434": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 33"
+  },
+  "1435": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: 656"
+  },
+  "1436": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1437": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 20"
+  },
+  "1438": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1439": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -5"
+  },
+  "1440": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1441": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 40"
+  },
+  "1442": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1443": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1452"
+  },
+  "1444": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "1445": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "1446": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 180"
+  },
+  "1447": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 5"
+  },
+  "1448": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 13"
+  },
+  "1449": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "1450": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "1451": {
+    "answer": [
+      3
+    ],
+    "hint": "Geometric sequence with ratio 1.057"
+  },
+  "1452": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "1453": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1454": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 2"
+  },
+  "1455": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "1456": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 36"
+  },
+  "1457": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 8"
+  },
+  "1458": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.16666666666666674"
+  },
+  "1459": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 7"
+  },
+  "1460": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 116"
+  },
+  "1461": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0"
+  },
+  "1462": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 49"
+  },
+  "1463": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -3"
+  },
+  "1464": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: 24"
+  },
+  "1465": {
+    "answer": [
+      2
+    ],
+    "hint": "Heuristic guess based on last difference: -0.21066666666666667"
+  },
+  "1466": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 0.16666666666666663"
+  },
+  "1467": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 1"
+  },
+  "1468": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: -12"
+  },
+  "1469": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 16"
+  },
+  "1470": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 4"
+  },
+  "1471": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 32"
+  },
+  "1472": {
+    "answer": [
+      3
+    ],
+    "hint": "Heuristic guess based on last difference: -6"
+  },
+  "1473": {
+    "answer": [
+      1
+    ],
+    "hint": "Heuristic guess based on last difference: 9"
+  },
+  "1474": {
+    "answer": [
+      0
+    ],
+    "hint": "Heuristic guess based on last difference: 6"
+  }
+}
