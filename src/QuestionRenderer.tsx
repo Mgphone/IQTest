@@ -1,5 +1,4 @@
 import React from 'react';
-import ImagePlaceholder from './ImagePlaceholder';
 
 interface QuestionRendererProps {
   content: string;
@@ -9,6 +8,11 @@ interface QuestionRendererProps {
 const QuestionRenderer: React.FC<QuestionRendererProps> = ({ content, className = '' }) => {
   // Function to render content with images
   const renderContent = (text: string) => {
+    // Safety check for undefined text
+    if (!text || typeof text !== 'string') {
+      return <span>No content</span>;
+    }
+    
     // Regex to match ![](path) markdown image syntax
     const imageRegex = /!\[\]\(([^)]+)\)/g;
     
@@ -95,10 +99,14 @@ const QuestionRenderer: React.FC<QuestionRendererProps> = ({ content, className 
     return elements;
   };
 
+  // Check if content has images to decide wrapper element
+  const hasImages = content && content.includes('![](');
+  const Wrapper = hasImages ? 'div' : 'span';
+  
   return (
-    <div className={className}>
+    <Wrapper className={className}>
       {renderContent(content)}
-    </div>
+    </Wrapper>
   );
 };
 

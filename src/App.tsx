@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { type Question, type QuizState, type IQTestQuestion, type TestSuite } from "./types";
+import { type Question, type QuizState, type IQTestQuestion } from "./types";
 import "./App.css";
 import { DataManager } from "./DataManager";
 import { AIQuestionSolver } from "./AIQuestionSolver";
@@ -150,7 +150,7 @@ const App: React.FC = () => {
         }
 
         const updatedPool = [
-          ...(DEFAULT_QUESTIONS as Question[]),
+          ...questionPool,
           ...validQuestions,
         ];
         setQuestionPool(updatedPool);
@@ -200,7 +200,7 @@ const App: React.FC = () => {
       }
 
       const updatedPool = [
-        ...(DEFAULT_QUESTIONS as Question[]),
+        ...questionPool,
         ...validQuestions,
       ];
       setQuestionPool(updatedPool);
@@ -397,7 +397,7 @@ i want 10 of those simple json for iq test
       const privateSuites = await dataManager.getAllPrivateTestSuites();
       
       for (const suite of privateSuites) {
-        const answers: any = {};
+        const answers: Record<string, { answer: number[], hint: string }> = {};
         
         for (const question of suite.questions) {
           const result = await aiSolver.solveQuestion(question);
@@ -666,16 +666,16 @@ i want 10 of those simple json for iq test
                 key={question.id}
                 className={`result-item ${isCorrect ? "correct" : "incorrect"}`}
               >
-                <p>
+                <div>
                   <strong>Q{index + 1}:</strong> <QuestionRenderer content={question.question} />
-                </p>
-                <p>
+                </div>
+                <div>
                   Your answer:{" "}
                   {userAnswer !== null
                     ? <QuestionRenderer content={question.options[userAnswer]} />
                     : "No answer"}
-                </p>
-                <p>Correct answer: <QuestionRenderer content={question.options[question.answer]} /></p>
+                </div>
+                <div>Correct answer: <QuestionRenderer content={question.options[question.answer]} /></div>
                 {question.hint && (
                   <div className="result-hint">
                     <strong>💡 Hint:</strong>

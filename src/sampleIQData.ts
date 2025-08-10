@@ -240,9 +240,9 @@ export function getSampleAnswers() {
   return SAMPLE_ANSWERS;
 }
 
-export function getQuestionsWithSampleAnswers(count: number = 10): {questions: IQTestQuestion[], answers: any} {
+export function getQuestionsWithSampleAnswers(count: number = 10): {questions: IQTestQuestion[], answers: Record<string, { answer: number[], hint: string }>} {
   const questions = getRandomSampleQuestions(count);
-  const relevantAnswers: any = {};
+  const relevantAnswers: Record<string, { answer: number[], hint: string }> = {};
   
   questions.forEach(q => {
     if (SAMPLE_ANSWERS[q.id.toString() as keyof typeof SAMPLE_ANSWERS]) {

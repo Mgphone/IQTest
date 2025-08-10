@@ -64,7 +64,7 @@ export class AIQuestionSolver {
             };
           }
         }
-      } catch (e) {
+      } catch {
         // Continue with next pattern
       }
     }

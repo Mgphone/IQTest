@@ -11,11 +11,11 @@ const HintRenderer: React.FC<HintRendererProps> = ({ hint, className = '' }) => 
     let processed = text;
     
     // Convert HTML subscripts and superscripts to Unicode equivalents
-    processed = processed.replace(/<sub>([^<]+)<\/sub>/g, (match, content) => {
+    processed = processed.replace(/<sub>([^<]+)<\/sub>/g, (_, content) => {
       return convertToSubscript(content);
     });
     
-    processed = processed.replace(/<sup>([^<]+)<\/sup>/g, (match, content) => {
+    processed = processed.replace(/<sup>([^<]+)<\/sup>/g, (_, content) => {
       return convertToSuperscript(content);
     });
     

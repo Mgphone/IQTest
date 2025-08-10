@@ -119,7 +119,7 @@ export class DataManager {
       }
       
       return allSuites;
-    } catch (error) {
+    } catch {
       // Fallback to sample data for demonstration
       console.log('Could not load private test data, using sample data for demo');
       const allSampleQuestions = getAllSampleQuestions();
@@ -150,7 +150,7 @@ export class DataManager {
         const shuffled = allQuestions.sort(() => 0.5 - Math.random());
         return shuffled.slice(0, Math.min(count, shuffled.length));
       }
-    } catch (error) {
+    } catch {
       console.log('Could not load from data files, using sample questions');
     }
     
@@ -171,7 +171,7 @@ export class DataManager {
         try {
           const suiteAnswers = await this.loadAnswers(suite.name);
           Object.assign(allAnswers, suiteAnswers);
-        } catch (error) {
+        } catch {
           console.log(`Could not load answers for ${suite.name}`);
         }
       }
@@ -190,7 +190,7 @@ export class DataManager {
         
         return { questions: selectedQuestions, answers: relevantAnswers };
       }
-    } catch (error) {
+    } catch {
       console.log('Could not load from data files with answers');
     }
     
@@ -198,17 +198,6 @@ export class DataManager {
     return getQuestionsWithSampleAnswers(count);
   }
 
-  private generateHintForQuestion(stem: string, options: string[]): string {
-    if (stem.match(/\d+.*\d+.*\?/)) {
-      return "Look for the pattern in the sequence. Consider arithmetic progression, geometric progression, or other mathematical relationships.";
-    } else if (stem.includes("is to") || stem.includes("analogy")) {
-      return "Think about the relationship between the first pair of words, then apply the same relationship to find the answer.";
-    } else if (stem.includes("diagram") || stem.includes("shape") || stem.includes("![](")) {
-      return "Analyze the visual pattern, symmetry, or logical progression in the shapes or diagrams.";
-    } else {
-      return "Consider the logical relationship or pattern that connects the elements in the question.";
-    }
-  }
   
   public convertIQQuestionToAppQuestion(iqQuestion: IQTestQuestion, answers?: import('./types').TestAnswers): import('./types').Question {
     // Validate and fix options if needed
